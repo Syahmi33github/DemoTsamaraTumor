@@ -1,0 +1,3 @@
+data_and_model/googlenet_model.h5
+data_and_model/googlenet_model.keras
+googlenet_savedmodel
